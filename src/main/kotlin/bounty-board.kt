@@ -1,9 +1,7 @@
-
-
+const val HERO_NAME = "Madrigal";
 fun main(){
     var hasSteed = false;
-    print("Hello")
-    print("Develop")
+    var magicMirror = HERO_NAME.reversed()
 }
 
 
